@@ -1,7 +1,9 @@
 # About me!
 Please read this if you're looking to know more about my repositories!
 
-I'm a programmer student at Haaga Helia - most of the repositories here are related to school projects!
+I'm a programmer student at Haaga Helia. Most of the repositories here are related to school projects, but there are some personal projects in between too
+
+
 
 **A bigger school project i participated in:**
 
