@@ -3,17 +3,23 @@ Please read this if you're looking to know more about my repositories!
 
 I'm a programmer student at Haaga Helia - most of the repositories here are related to school projects!
 
-A bigger school project i participated in:
+**A bigger school project i participated in:**
+
 TicketGuru, as part of programming project 1 -course
 
-My largest backend project:
+
+**My largest backend project:**
+
 StorefrontApp
 Backend was made using Springboot and Java
 Front end was made with thymeleaf using Bootstrap for UI styling.
 
-My largest frontend project:
+
+**My largest frontend project:**
+
 Raspberry Consulting
 This frontend was done using Angular. The site is purely fictional and the company does not exist.
+
 
 **Currently in the works:**
 
