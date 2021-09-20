@@ -1,4 +1,4 @@
-# About-me
+# About me!
 Please read this if you're looking to know more about my repositories!
 
 I'm a programmer student at Haaga Helia - most of the repositories here are related to school projects!
