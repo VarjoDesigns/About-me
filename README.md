@@ -1,2 +1,30 @@
 # About-me
-Read this if you're looking to know more about my repositories
+Please read this if you're looking to know more about my repositories
+
+I'm a programmer student at Haaga Helia - most of the repositories here are related to school projects!
+
+A bigger school project i participated in:
+TicketGuru, as part of programming project 1 -course
+
+My largest backend project:
+StorefrontApp
+Backend was made using Springboot and Java
+Front end was made with thymeleaf using Bootstrap for UI styling.
+
+My largest frontend project:
+Raspberry Consulting
+This frontend was done using Angular. The site is purely fictional and the company does not exist.
+
+Currently in the works:
+A larger React app i'm hoping to make public in coming weeks
+A single-page version of my personal website using Node.js and React
+
+Or visit some of the pages live:
+www.varjodesigns.com
+My personal website!
+
+www.itd-co.com
+Simple html / bootstrap site
+
+http://rwbnordics.com/
+Website using Wordpress
